@@ -1,0 +1,1313 @@
+﻿Log file open, 02/01/18 09:00:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TribalTurtlesProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1988823030) SRandInit(-1988823030).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.153908
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DonAINavigation/Binaries/Win64/UE4Editor-DonAINavigation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DonAINavigation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.01-08.00.28:606][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-08.00.28:606][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.01-08.00.28:628][  0]LogInit: Computer: LAPTOP-590P4A2Q
+[2018.02.01-08.00.28:628][  0]LogInit: User: Luc
+[2018.02.01-08.00.28:628][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.01-08.00.28:628][  0]LogInit: High frequency timer resolution =2.648440 MHz
+[2018.02.01-08.00.28:629][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.01-08.00.28:629][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.01-08.00.28:629][  0]LogMemory: Process Physical Memory: 273.73 MB used, 273.73 MB peak
+[2018.02.01-08.00.28:629][  0]LogMemory: Process Virtual Memory: 269.35 MB used, 269.35 MB peak
+[2018.02.01-08.00.28:629][  0]LogMemory: Physical Memory: 4809.09 MB used,  3299.82 MB free, 8108.91 MB total
+[2018.02.01-08.00.28:629][  0]LogMemory: Virtual Memory: 664.54 MB used,  3299.82 MB free, 134217728.00 MB total
+[2018.02.01-08.00.28:936][  0]LogInit: Using OS detected language (nl-NL).
+[2018.02.01-08.00.28:936][  0]LogInit: Using OS detected locale (nl-NL).
+[2018.02.01-08.00.28:946][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.02.01-08.00.28:947][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the locale.
+[2018.02.01-08.00.29:431][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.01-08.00.30:006][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.01-08.00.30:015][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.02.01-08.00.30:015][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.01-08.00.30:604][  0]LogD3D11RHI:    1. 'Radeon(TM) 520' (Feature Level 11_0)
+[2018.02.01-08.00.30:604][  0]LogD3D11RHI:       2039/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2018.02.01-08.00.30:608][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.01-08.00.30:608][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.01-08.00.30:608][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.02.01-08.00.30:615][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.01-08.00.30:615][  0]LogD3D11RHI:     GPU DeviceId: 0x6660 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.01-08.00.30:615][  0]LogWindows: EnumDisplayDevices:
+[2018.02.01-08.00.30:615][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.02.01-08.00.30:616][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.02.01-08.00.30:616][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.02.01-08.00.30:616][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.01-08.00.30:616][  0]LogD3D11RHI:     Adapter Name: Radeon(TM) 520
+[2018.02.01-08.00.30:616][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.01-08.00.30:616][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.01-08.00.30:616][  0]LogRHI: Texture pool is 1427 MB (70% of 2039 MB)
+[2018.02.01-08.00.30:656][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.01-08.00.30:698][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.02.01-08.00.30:708][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Intermediate/Shaders/WorkingDirectory/21020/).
+[2018.02.01-08.00.30:708][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luc/AppData/Local/Temp/UnrealShaderWorkingDir/B182B6014B4CF3FDE88055BC648B986E/'.
+[2018.02.01-08.00.30:709][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.01-08.00.32:055][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.01-08.00.32:128][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.01-08.00.32:201][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.01-08.00.32:285][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.01-08.00.32:366][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.01-08.00.32:446][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.01-08.00.32:521][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.01-08.00.32:597][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.01-08.00.32:672][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.01-08.00.32:748][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.01-08.00.32:818][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.01-08.00.32:894][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.01-08.00.32:968][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.01-08.00.33:041][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.01-08.00.33:180][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.01-08.00.33:180][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.01-08.00.33:251][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.01-08.00.33:308][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.01-08.00.33:427][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.01-08.00.33:464][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.01-08.00.33:537][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.01-08.00.33:604][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.01-08.00.33:679][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.01-08.00.33:752][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.01-08.00.33:752][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.01-08.00.34:484][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.01-08.00.34:850][  0]LogDerivedDataCache: Loaded boot cache 0.36s 78MB C:/Users/Luc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-08.00.34:850][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.01-08.00.34:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.01-08.00.34:850][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.01-08.00.34:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.01-08.00.34:851][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.01-08.00.34:884][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.01-08.00.34:898][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.01-08.00.34:917][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.01-08.00.34:923][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.01-08.00.34:927][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-08.00.34:928][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-08.00.35:855][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-08.00.36:424][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.01-08.00.36:482][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.01-08.00.36:482][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.01-08.00.36:482][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.01-08.00.36:482][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.01-08.00.36:482][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.01-08.00.36:554][  0]LogNetVersion: TribalTurtlesProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 203732966)
+[2018.02.01-08.00.36:875][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2018.02.01-08.00.37:796][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.066679 seconds
+[2018.02.01-08.00.37:802][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.01-08.00.37:802][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.01-08.00.37:802][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.01-08.00.37:873][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.01-08.00.43:062][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.01-08.00.43:131][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.01-08.00.44:240][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.01-08.00.44:918][  0]SourceControl: Source control is disabled
+[2018.02.01-08.00.44:919][  0]SourceControl: Source control is disabled
+[2018.02.01-08.00.45:008][  0]SourceControl: Source control is disabled
+[2018.02.01-08.00.45:093][  0]SourceControl: Source control is disabled
+[2018.02.01-08.00.46:462][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.01-08.00.46:879][  0]LogOcInput: OculusInput pre-init called
+[2018.02.01-08.00.47:341][  0]LogEngine: Initializing Engine...
+[2018.02.01-08.00.47:347][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.01-08.00.47:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.01-08.00.47:652][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.01-08.00.47:871][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.01-08.00.47:889][  0]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.00.48:204][  0]LogInit: FAudioDevice initialized.
+[2018.02.01-08.00.48:314][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Luc/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-08.00.48:329][  0]LogInit: Texture streaming: Enabled
+[2018.02.01-08.00.48:469][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.01-08.00.48:678][  0]LogInit: Transaction tracking system initialized
+[2018.02.01-08.00.49:182][  0]BlueprintLog: New page: Editor Load
+[2018.02.01-08.00.50:604][  0]LocalizationService: Localization service is disabled
+[2018.02.01-08.00.51:417][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.01-08.00.51:417][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.02.01-08.00.51:417][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.02.01-08.00.52:055][  0]LogConsoleResponse: Display: 
+[2018.02.01-08.00.52:398][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.01-08.00.52:398][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.01-08.00.52:398][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.01-08.00.52:511][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/' took 0.07s
+[2018.02.01-08.00.54:483][  0]SourceControl: Source control is disabled
+[2018.02.01-08.00.54:485][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-08.00.54:487][  0]LightingResults: New page: Lighting Build
+[2018.02.01-08.00.54:576][  0]MapCheck: New page: Map Check
+[2018.02.01-08.00.54:576][  0]LightingResults: New page: Lighting Build
+[2018.02.01-08.00.55:969][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.00.56:010][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-08.00.56:037][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-08.00.56:153][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 114.812ms to complete.
+[2018.02.01-08.00.56:153][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.669
+[2018.02.01-08.00.56:393][  0]LogCollectionManager: Loaded 0 collections in 0.002875 seconds
+[2018.02.01-08.00.56:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Collections/' took 0.01s
+[2018.02.01-08.00.56:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Developers/Luc/Collections/' took 0.01s
+[2018.02.01-08.00.56:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Collections/' took 0.01s
+[2018.02.01-08.00.56:517][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.01-08.00.56:529][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2369 classes and 525 folders.
+[2018.02.01-08.00.56:624][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.01-08.00.56:776][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.01-08.00.56:855][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.01-08.00.57:043][  0]LogSlate: Took 0.001459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-08.00.57:049][  0]LogSlate: Took 0.001381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.01-08.00.57:058][  0]LogSlate: Took 0.001479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.01-08.00.57:207][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2018.02.01-08.00.57:516][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.01-08.00.57:516][  0]LogLoad: (Engine Initialization) Total time: 33.83 seconds
+[2018.02.01-08.00.57:516][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.01-08.00.57:516][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.01-08.00.57:878][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.01-08.00.57:895][  0]LogSlate: Took 0.001921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-08.00.58:538][  2]LogAssetRegistry: Asset discovery search completed in 21.6852 seconds
+[2018.02.01-08.00.58:542][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.01-08.00.58:542][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.02.01-08.01.03:644][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.01.03:832][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.03:833][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.01.03:835][ 28]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:01:03 AM)
+[2018.02.01-08.01.03:835][ 28]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.01.03:873][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038354s)
+[2018.02.01-08.01.03:874][ 28]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.01.03:875][ 28]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2018.02.01-08.01.03:876][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041055s)
+[2018.02.01-08.01.03:892][ 28]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.01.03:909][ 28]LogInit: FAudioDevice initialized.
+[2018.02.01-08.01.03:954][ 28]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.01.03:958][ 28]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.01.03
+[2018.02.01-08.01.03:971][ 28]LogWorld: Bringing up level for play took: 0.014725
+[2018.02.01-08.01.04:036][ 28]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.01-08.01.04:047][ 28]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.236
+[2018.02.01-08.01.04:047][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.08:588][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.08:635][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.13:080][537]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.01.13:107][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.13:108][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.01.13:108][537]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:01:13 AM)
+[2018.02.01-08.01.13:108][537]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.01.13:134][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026306s)
+[2018.02.01-08.01.13:136][537]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.01.13:136][537]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2018.02.01-08.01.13:136][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028370s)
+[2018.02.01-08.01.13:158][537]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.01.13:173][537]LogInit: FAudioDevice initialized.
+[2018.02.01-08.01.13:214][537]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.01.13:218][537]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.01.13
+[2018.02.01-08.01.13:220][537]LogWorld: Bringing up level for play took: 0.004868
+[2018.02.01-08.01.13:222][537]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.589
+[2018.02.01-08.01.13:222][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.18:895][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.18:938][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.19:994][997]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.01.20:021][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.20:022][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.01.20:023][997]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:01:20 AM)
+[2018.02.01-08.01.20:023][997]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.01.20:049][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026290s)
+[2018.02.01-08.01.20:050][997]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.01.20:051][997]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2018.02.01-08.01.20:051][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028405s)
+[2018.02.01-08.01.20:072][997]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.01.20:087][997]LogInit: FAudioDevice initialized.
+[2018.02.01-08.01.20:122][997]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.01.20:125][997]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.01.20
+[2018.02.01-08.01.20:127][997]LogWorld: Bringing up level for play took: 0.003752
+[2018.02.01-08.01.20:129][997]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.319
+[2018.02.01-08.01.20:130][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.24:067][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.24:108][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.24:808][315]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.01.24:834][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.24:834][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.01.24:834][315]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:01:24 AM)
+[2018.02.01-08.01.24:834][315]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.01.24:862][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027376s)
+[2018.02.01-08.01.24:863][315]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.01.24:864][315]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2018.02.01-08.01.24:864][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029519s)
+[2018.02.01-08.01.24:884][315]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.01.24:903][315]LogInit: FAudioDevice initialized.
+[2018.02.01-08.01.24:934][315]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.01.24:937][315]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.01.24
+[2018.02.01-08.01.24:939][315]LogWorld: Bringing up level for play took: 0.004027
+[2018.02.01-08.01.24:941][315]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.87
+[2018.02.01-08.01.24:941][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.29:755][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.01.29:800][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_Stalactite_M (AutoDXT, 1024X1024)
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_Large_N (BC5, 2048X2048)
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_Large_M (AutoDXT, 1024X1024)
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_Stalactite_N (BC5, 2048X2048)
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_Detail_D (AutoDXT, 2048X2048)
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_01_N (BC5, 2048X2048)
+[2018.02.01-08.04.11:707][971]LogTexture: Display: Building textures: T_Cave_Rock_01_D (AutoDXT, 2048X2048)
+[2018.02.01-08.04.19:668][971]LogStaticMesh: Building static mesh SM_Cave_Rock_Large01_REDO...
+[2018.02.01-08.04.19:675][971]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-08.04.19:680][971]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-08.04.19:732][971]LogStaticMesh: Built static mesh [0.06s] /Game/Rocks_And_Nature/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2018.02.01-08.04.19:778][971]LogMaterial: Missing cached shader map for material M_Cave_Rock_MASTER, compiling. 
+[2018.02.01-08.04.19:902][971]LogActorFactory: Actor Factory created SM_Cave_Rock_Large01_REDO
+[2018.02.01-08.04.20:824][  7]LogActorFactory: Actor Factory created SM_Cave_Rock_Large01_REDO
+[2018.02.01-08.04.36:841][616]Cmd: DELETE
+[2018.02.01-08.04.36:841][616]Cmd: ACTOR DELETE
+[2018.02.01-08.04.36:858][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-08.04.36:879][616]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.02.01-08.04.58:140][386]LogTexture: Display: Building textures: T_LV_Forest_Foliage02_N (BC5, 512X1024)
+[2018.02.01-08.04.58:140][386]LogTexture: Display: Building textures: T_LV_Forest_Foliage02_D (AutoDXT, 512X1024)
+[2018.02.01-08.04.58:140][386]LogStaticMesh: Building static mesh SM_LV_Soul_Foliage021SM...
+[2018.02.01-08.04.58:172][386]LogStaticMesh: Built static mesh [0.03s] /Game/Rocks_And_Nature/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM
+[2018.02.01-08.04.58:181][386]LogMaterial: Missing cached shader map for material M_Soul_Grass04, compiling. 
+[2018.02.01-08.04.58:318][386]LogActorFactory: Actor Factory created SM_LV_Soul_Foliage021SM
+[2018.02.01-08.05.00:098][448]LogActorFactory: Actor Factory created SM_LV_Soul_TreeCluster
+[2018.02.01-08.05.01:013][481]LogActorFactory: Actor Factory created SM_LV_Soul_TreeCluster
+[2018.02.01-08.05.03:211][551]Cmd: SELECT NONE
+[2018.02.01-08.05.10:932][839]LogActorFactory: Actor Factory created SM_Aspen_Tree_01
+[2018.02.01-08.05.11:496][859]LogActorFactory: Actor Factory created SM_Aspen_Tree_01
+[2018.02.01-08.05.14:479][962]Cmd: DELETE
+[2018.02.01-08.05.14:479][962]Cmd: ACTOR DELETE
+[2018.02.01-08.05.14:491][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-08.05.14:512][962]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.02.01-08.05.15:338][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LV_Soul_TreeCluster)
+[2018.02.01-08.05.15:884][ 10]Cmd: DELETE
+[2018.02.01-08.05.15:884][ 10]Cmd: ACTOR DELETE
+[2018.02.01-08.05.15:889][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-08.05.15:911][ 10]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.02.01-08.05.30:247][ 90]LogTexture: Display: Building textures: T_Cave_Rock_Small_M (AutoDXT, 1024X1024)
+[2018.02.01-08.05.30:247][ 90]LogTexture: Display: Building textures: T_Cave_Rock_Small_N (BC5, 2048X2048)
+[2018.02.01-08.05.30:247][ 90]LogTexture: Display: Building textures: T_Moss_D (AutoDXT, 2048X2048)
+[2018.02.01-08.05.30:247][ 90]LogTexture: Display: Building textures: T_Moss_N (BC5, 2048X2048)
+[2018.02.01-08.05.30:247][ 90]LogMaterial: Missing cached shader map for material M_Cave_Rock_MASTER_VertexPaint_Moss, compiling. 
+[2018.02.01-08.05.30:336][ 90]LogStaticMesh: Building static mesh SM_Cave_Tree01...
+[2018.02.01-08.05.30:377][ 90]LogStaticMesh: Built static mesh [0.04s] /Game/Rocks_And_Nature/Environment/Meshes/Nature/SM_Cave_Tree01.SM_Cave_Tree01
+[2018.02.01-08.05.30:445][ 90]LogActorFactory: Actor Factory created SM_Cave_Tree01
+[2018.02.01-08.05.31:274][123]LogActorFactory: Actor Factory created SM_Cave_Tree01
+[2018.02.01-08.05.34:681][253]Cmd: DELETE
+[2018.02.01-08.05.34:681][253]Cmd: ACTOR DELETE
+[2018.02.01-08.05.34:685][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-08.05.34:708][253]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X128)
+[2018.02.01-08.05.53:338][817]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2018.02.01-08.06.18:581][615]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.02.01-08.06.19:692][615]LogSlate: Took 0.001694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-08.06.44:380][333]LogSlate: Took 0.008491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.01-08.11.08:549][ 42]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-08.11.18:018][ 68]LogSavePackage: Save=289.40ms
+[2018.02.01-08.11.18:018][ 68]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/ThirdPersonExampleMap_Auto10C15512446FEBD23450B418D286DDBCF.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.02.01-08.11.18:024][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.02.01-08.11.18:028][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.431
+[2018.02.01-08.11.18:028][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.431
+[2018.02.01-08.12.52:464][631]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-08.12.53:436][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.12.53:730][643]LogSavePackage: Save=276.20ms
+[2018.02.01-08.12.53:730][643]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BPA6F9A94F46E56A9BCB7F988846548130.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.12.53:738][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.12.55:322][696]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.12.55:352][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.12.55:352][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.12.55:352][696]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:12:55 AM)
+[2018.02.01-08.12.55:352][696]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.12.55:380][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027888s)
+[2018.02.01-08.12.55:381][696]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.12.55:382][696]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2018.02.01-08.12.55:382][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030256s)
+[2018.02.01-08.12.55:417][696]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.12.55:431][696]LogInit: FAudioDevice initialized.
+[2018.02.01-08.12.55:462][696]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.12.55:465][696]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.12.55
+[2018.02.01-08.12.55:467][696]LogWorld: Bringing up level for play took: 0.004145
+[2018.02.01-08.12.55:469][696]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.342
+[2018.02.01-08.12.55:469][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.12.57:832][868]LogBlueprintUserMessages: [Phamos_BP_C_0] Hello
+[2018.02.01-08.12.59:373][985]LogBlueprintUserMessages: [Phamos_BP_C_0] Hello
+[2018.02.01-08.13.00:430][ 66]LogBlueprintUserMessages: [Phamos_BP_C_0] Hello
+[2018.02.01-08.13.00:723][ 88]LogBlueprintUserMessages: [Phamos_BP_C_0] Hello
+[2018.02.01-08.13.01:189][123]LogBlueprintUserMessages: [Phamos_BP_C_0] Hello
+[2018.02.01-08.13.03:245][277]LogBlueprintUserMessages: [Phamos_BP_C_0] Hello
+[2018.02.01-08.13.03:662][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.13.03:704][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.13.12:403][553]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-08.13.13:386][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.13.13:713][563]LogSavePackage: Save=312.18ms
+[2018.02.01-08.13.13:713][563]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP99EFD0CD495B69FC920A13880ECC14A2.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.13.13:724][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.13.20:912][753]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-08.13.21:874][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.13.22:189][763]LogSavePackage: Save=297.45ms
+[2018.02.01-08.13.22:189][763]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP8F66CA954BEA7E2F9229AF8D22A07755.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.13.22:200][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.15.12:131][759]LogRenderer: Reallocating scene render targets to support 1248x696 Format 9 NumSamples 1 (Frame:1).
+[2018.02.01-08.15.37:105][279]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.15.37:955][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.15.37:976][289]LogSavePackage: Save=17.72ms
+[2018.02.01-08.15.37:976][289]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballEBE37BF9425CDD821E18E39E7DEA09E7.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.15.37:987][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.16.04:587][836]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.16.05:402][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.16.05:444][846]LogSavePackage: Save=16.60ms
+[2018.02.01-08.16.05:444][846]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball4BA358CC4F874EA5F3078CA85F7351D2.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.16.05:455][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.16.35:755][474]LogEditorTransaction: Undo Make New Scene Root
+[2018.02.01-08.17.00:491][981]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.17.01:421][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.17.01:459][992]LogSavePackage: Save=21.29ms
+[2018.02.01-08.17.01:459][992]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballD0A9B5A447980862A6C6F79A9F2A70AC.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.17.01:470][992]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.17.27:334][500]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.02.01-08.17.46:099][869]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.17.46:883][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.17.46:924][878]LogSavePackage: Save=18.43ms
+[2018.02.01-08.17.46:924][878]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballB3BAAD51473062652B7AA0A4A2E34BE0.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.17.46:935][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.18.37:417][232]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.18.38:387][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.18.38:437][250]LogSavePackage: Save=29.01ms
+[2018.02.01-08.18.38:437][250]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballA9EC2902474D452D0C45078D077AE457.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.18.38:448][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.18.43:006][373]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.18.43:790][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.18.43:841][385]LogSavePackage: Save=33.02ms
+[2018.02.01-08.18.43:841][385]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballF03950794DCD493042A86D95669B8F81.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.18.43:852][385]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.18.51:538][610]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.18.52:231][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.18.52:280][620]LogSavePackage: Save=29.96ms
+[2018.02.01-08.18.52:280][620]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball76CF6CBC4760861673E5ABAA0921D9FD.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.18.52:291][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.19.27:478][615]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.19.28:318][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.19.28:371][628]LogSavePackage: Save=33.87ms
+[2018.02.01-08.19.28:371][628]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballB3E442B448FCD516FFEECCB28F094980.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.19.28:383][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.19.52:892][327]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.19.57:287][437]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.19.57:624][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.19.57:686][437]LogSavePackage: Save=41.90ms
+[2018.02.01-08.19.57:686][437]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballB3B0FAF24808D2C9AAAE5E98BD8A58C1.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.19.57:696][437]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.19.57:940][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.19.57:995][443]LogSavePackage: Save=38.15ms
+[2018.02.01-08.19.57:995][443]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballF6BA666D435E8E99F80A3280EA51AC5F.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.19.58:000][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.20.01:338][533]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.20.02:159][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.20.02:214][545]LogSavePackage: Save=37.53ms
+[2018.02.01-08.20.02:214][545]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballA09038ED423CF5A8956511B16423A067.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.20.02:224][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.20.38:864][584]LogTexture: Display: Building textures: T_Fireball_02_SubUV_4_4 (AutoDXT, 512X512)
+[2018.02.01-08.20.38:864][584]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.02.01-08.20.44:957][756]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.20.48:865][851]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.20.49:694][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.20.49:756][863]LogSavePackage: Save=41.67ms
+[2018.02.01-08.20.49:756][863]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball60E9B7D748EF19816E6BD28285C03735.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.20.49:766][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.20.52:188][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.20.52:254][933]LogSavePackage: Save=46.33ms
+[2018.02.01-08.20.52:254][933]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball67140109447AD4D99ACFC1AA431DD75A.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.20.52:259][933]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.20.54:739][  6]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.20.55:171][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.20.55:233][  8]LogSavePackage: Save=44.84ms
+[2018.02.01-08.20.55:233][  8]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball3D7FB01F4D9FF65724169489A4569A91.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.20.55:238][  8]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.20.55:401][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.20.55:466][ 12]LogSavePackage: Save=46.72ms
+[2018.02.01-08.20.55:466][ 12]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball73B28A47484010964F114598AD678735.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.20.55:471][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.21.48:852][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.21.48:919][711]LogSavePackage: Save=44.77ms
+[2018.02.01-08.21.48:920][711]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball1BCC624F460D844E4C9A97B103C81C84.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.21.48:925][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.22.33:848][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.22.33:915][ 31]LogSavePackage: Save=45.50ms
+[2018.02.01-08.22.33:915][ 31]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballA687D0F24AD720DAF8D5938C10F772D2.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.22.33:920][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.22.47:384][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.22.47:450][425]LogSavePackage: Save=45.68ms
+[2018.02.01-08.22.47:450][425]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballB2477DBB48BCCD4903D76D9EDDEBCB24.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.22.47:455][425]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.23.01:945][838]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-08.23.24:171][459]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-08.23.25:012][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.23.25:316][465]LogSavePackage: Save=285.50ms
+[2018.02.01-08.23.25:316][465]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP3E393DAD4B4231255DEC039839EEFD28.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.23.25:326][465]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.23.47:362][102]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-08.23.48:155][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.23.48:470][107]LogSavePackage: Save=298.09ms
+[2018.02.01-08.23.48:470][107]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BPBA2105094D839C6F01DFBC87115F392C.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.23.48:480][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.23.50:427][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.23.50:725][164]LogSavePackage: Save=278.04ms
+[2018.02.01-08.23.50:725][164]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP822B528A416D75A54D10099EE0A6E0C7.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.23.50:730][164]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.23.52:798][234]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.23.52:836][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.23.52:837][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.23.52:837][234]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:23:52 AM)
+[2018.02.01-08.23.52:837][234]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.23.52:871][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033810s)
+[2018.02.01-08.23.52:872][234]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.23.52:872][234]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2018.02.01-08.23.52:873][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035884s)
+[2018.02.01-08.23.52:911][234]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.23.52:932][234]LogInit: FAudioDevice initialized.
+[2018.02.01-08.23.52:967][234]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.23.52:971][234]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.23.52
+[2018.02.01-08.23.52:973][234]LogWorld: Bringing up level for play took: 0.004975
+[2018.02.01-08.23.52:976][234]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.835
+[2018.02.01-08.23.52:976][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.23.58:232][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.23.58:276][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.19:428][ 98]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.24.20:244][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.24.20:308][110]LogSavePackage: Save=45.71ms
+[2018.02.01-08.24.20:308][110]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballEF27D0C140C07B49F21E639C401EA870.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.24.20:317][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.24.21:564][155]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.24.21:606][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.21:607][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.24.21:608][155]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:24:21 AM)
+[2018.02.01-08.24.21:608][155]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.24.21:641][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032919s)
+[2018.02.01-08.24.21:642][155]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.24.21:642][155]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.02.01-08.24.21:642][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034420s)
+[2018.02.01-08.24.21:679][155]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.24.21:697][155]LogInit: FAudioDevice initialized.
+[2018.02.01-08.24.21:734][155]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.24.21:738][155]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.24.21
+[2018.02.01-08.24.21:740][155]LogWorld: Bringing up level for play took: 0.005168
+[2018.02.01-08.24.21:742][155]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.068
+[2018.02.01-08.24.21:743][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.28:847][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.28:890][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.39:043][970]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.24.41:543][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.24.41:581][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.41:581][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.24.41:581][ 47]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:24:41 AM)
+[2018.02.01-08.24.41:581][ 47]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.24.41:613][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032071s)
+[2018.02.01-08.24.41:614][ 47]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.24.41:615][ 47]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2018.02.01-08.24.41:615][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033692s)
+[2018.02.01-08.24.41:653][ 47]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.24.41:674][ 47]LogInit: FAudioDevice initialized.
+[2018.02.01-08.24.41:712][ 47]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.24.41:715][ 47]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.24.41
+[2018.02.01-08.24.41:717][ 47]LogWorld: Bringing up level for play took: 0.005349
+[2018.02.01-08.24.41:720][ 47]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.09
+[2018.02.01-08.24.41:721][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.56:627][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.24.56:672][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.25.04:596][347]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.25.05:319][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.25.05:384][357]LogSavePackage: Save=47.40ms
+[2018.02.01-08.25.05:384][357]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballFD5623674520F169F3C1D1945E1AF7D9.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.25.05:395][357]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.25.08:930][478]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.25.08:971][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.25.08:971][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.25.08:971][478]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:25:08 AM)
+[2018.02.01-08.25.08:971][478]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.25.09:003][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031649s)
+[2018.02.01-08.25.09:004][478]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.25.09:004][478]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2018.02.01-08.25.09:004][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033063s)
+[2018.02.01-08.25.09:050][478]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.25.09:072][478]LogInit: FAudioDevice initialized.
+[2018.02.01-08.25.09:107][478]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.25.09:111][478]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.25.09
+[2018.02.01-08.25.09:113][478]LogWorld: Bringing up level for play took: 0.004865
+[2018.02.01-08.25.09:115][478]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.696
+[2018.02.01-08.25.09:116][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.25.12:351][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.25.12:392][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.25.44:980][690]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.25.45:708][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.25.45:788][701]LogSavePackage: Save=58.56ms
+[2018.02.01-08.25.45:788][701]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball214A604A4BEF3BC33FC4668738A941CE.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.25.45:797][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.25.47:709][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.25.47:774][757]LogSavePackage: Save=48.29ms
+[2018.02.01-08.25.47:774][757]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballF7D27E0B41AB8EAB9E0ABA8AACD36616.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.25.47:778][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.26.25:507][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2018.02.01-08.26.25:518][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Phamos/Phamos_BP] ([1] browsable assets)...
+[2018.02.01-08.26.25:545][240]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Phamos/Phamos_BP.Phamos_BP]
+[2018.02.01-08.26.25:545][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Phamos/Phamos_BP]
+[2018.02.01-08.26.26:005][240]LogSavePackage: Save=441.90ms
+[2018.02.01-08.26.26:005][240]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP_Auto273FDC85843F6F9CC4C56DB9A1C9DEC36.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Autosaves/Game/Characters/Phamos/Phamos_BP_Auto2.uasset'
+[2018.02.01-08.26.26:018][240]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Autosaves/Game/Characters/Phamos/Phamos_BP_Auto2.uasset
+[2018.02.01-08.26.26:018][240]LogFileHelpers: Auto-saving content packages took 0.510
+[2018.02.01-08.27.01:057][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-08.27.01:360][808]LogSavePackage: Save=283.61ms
+[2018.02.01-08.27.01:360][808]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP12C9B65446995766768C53942C8FDC53.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-08.27.01:370][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-08.27.50:531][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.27.50:573][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.27.50:573][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.27.50:573][117]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:27:50 AM)
+[2018.02.01-08.27.50:573][117]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.27.50:606][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032346s)
+[2018.02.01-08.27.50:608][117]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.27.50:608][117]LogPlayLevel: PIE: World Init took: (0.002688s)
+[2018.02.01-08.27.50:609][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035551s)
+[2018.02.01-08.27.50:646][117]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.27.50:669][117]LogInit: FAudioDevice initialized.
+[2018.02.01-08.27.50:707][117]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.27.50:710][117]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.27.50
+[2018.02.01-08.27.50:711][117]LogWorld: Bringing up level for play took: 0.004021
+[2018.02.01-08.27.50:715][117]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.904
+[2018.02.01-08.27.50:715][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.28.38:229][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.28.38:275][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.29.03:560][ 92]BlueprintLog: New page: Compile Fireball
+[2018.02.01-08.29.04:538][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.29.04:609][103]LogSavePackage: Save=44.40ms
+[2018.02.01-08.29.04:609][103]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball247ACD6849A9A208912D28AAA9123CA7.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.29.04:619][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.29.14:131][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-08.29.14:197][303]LogSavePackage: Save=46.16ms
+[2018.02.01-08.29.14:197][303]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball0CD8EDFC47C4B332F01534BC564E9443.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-08.29.14:202][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-08.29.15:795][345]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-08.29.15:841][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.29.15:841][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-08.29.15:841][345]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 10:29:15 AM)
+[2018.02.01-08.29.15:841][345]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-08.29.15:875][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032737s)
+[2018.02.01-08.29.15:876][345]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-08.29.15:876][345]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2018.02.01-08.29.15:877][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034811s)
+[2018.02.01-08.29.15:914][345]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-08.29.15:936][345]LogInit: FAudioDevice initialized.
+[2018.02.01-08.29.15:969][345]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-08.29.15:973][345]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.01-09.29.15
+[2018.02.01-08.29.15:975][345]LogWorld: Bringing up level for play took: 0.004740
+[2018.02.01-08.29.15:978][345]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.167
+[2018.02.01-08.29.15:978][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.29.53:076][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-08.29.53:120][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.08.51:770][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.08.51:855][855]LogSavePackage: Save=57.97ms
+[2018.02.01-09.08.51:855][855]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball62F585D943E0D8C516AC2A88F8FB622B.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.08.51:860][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.09.07:321][214]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.09.18:927][435]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.09.19:810][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.09.19:970][442]LogSavePackage: Save=113.23ms
+[2018.02.01-09.09.19:970][442]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballF1EF30C246CE262BFF94ED873B3ECE4B.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.09.19:985][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.09.29:669][637]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.09.30:862][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.09.30:937][651]LogSavePackage: Save=49.90ms
+[2018.02.01-09.09.30:937][651]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball10A6F88245D3EB490C4B1CBBE7A91169.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.09.30:949][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.09.31:666][664]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-09.09.32:140][680]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-09.09.32:181][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.09.32:181][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-09.09.32:181][680]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 11:09:32 AM)
+[2018.02.01-09.09.32:181][680]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-09.09.32:215][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033048s)
+[2018.02.01-09.09.32:217][680]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-09.09.32:217][680]LogPlayLevel: PIE: World Init took: (0.002115s)
+[2018.02.01-09.09.32:217][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035685s)
+[2018.02.01-09.09.32:262][680]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-09.09.32:283][680]LogInit: FAudioDevice initialized.
+[2018.02.01-09.09.32:321][680]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-09.09.32:326][680]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.01-10.09.32
+[2018.02.01-09.09.32:329][680]LogWorld: Bringing up level for play took: 0.006805
+[2018.02.01-09.09.32:333][680]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.523
+[2018.02.01-09.09.32:334][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.09.52:413][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.09.52:454][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.10.05:327][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-09.10.05:633][274]LogSavePackage: Save=288.15ms
+[2018.02.01-09.10.05:633][274]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BPF0A248884A26293D4E5CB88607EDFBA4.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-09.10.05:644][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-09.15.54:787][886]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-09.15.54:930][886]LogBlueprint: Error: [Compiler Phamos_BP] The current value (0, 0, 0) of the ' Start ' pin is invalid: 'Start' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.02.01-09.15.54:930][886]LogBlueprint: Error: [Compiler Phamos_BP] The current value (0, 0, 0) of the ' Target ' pin is invalid: 'Target' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.02.01-09.15.55:352][886]LogBlueprint: Warning: [Compiler Phamos_BP] [4531.66] Compile of Phamos_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 564 ms] (/Game/Characters/Phamos/Phamos_BP.Phamos_BP)
+[2018.02.01-09.15.55:793][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-09.15.56:101][897]LogSavePackage: Save=281.48ms
+[2018.02.01-09.15.56:101][897]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP754D1C9848E480E466C28287D8765E5F.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-09.15.56:109][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-09.16.11:637][362]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-09.16.11:766][362]LogBlueprint: Error: [Compiler Phamos_BP] The current value (0, 0, 0) of the ' Start ' pin is invalid: 'Start' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.02.01-09.16.11:766][362]LogBlueprint: Error: [Compiler Phamos_BP] The current value (0, 0, 0) of the ' Target ' pin is invalid: 'Target' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.02.01-09.16.12:216][362]LogBlueprint: Warning: [Compiler Phamos_BP] [4548.53] Compile of Phamos_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 579 ms] (/Game/Characters/Phamos/Phamos_BP.Phamos_BP)
+[2018.02.01-09.16.12:591][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-09.16.12:889][371]LogSavePackage: Save=282.14ms
+[2018.02.01-09.16.12:889][371]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP7B9F6A984979075D05ED04B28A3F70E3.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-09.16.12:900][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-09.17.24:887][150]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-09.17.25:984][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-09.17.26:292][163]LogSavePackage: Save=292.15ms
+[2018.02.01-09.17.26:292][163]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP80936ABF45ACB9B96E18E1A34DCCF378.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-09.17.26:302][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-09.18.37:558][266]BlueprintLog: New page: Compile Phamos_BP
+[2018.02.01-09.18.38:598][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-09.18.38:904][277]LogSavePackage: Save=287.70ms
+[2018.02.01-09.18.38:904][277]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP64124D6C47ED441BE2F222932749D1CE.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-09.18.38:914][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-09.18.40:723][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Phamos/Phamos_BP" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset" SILENT=true
+[2018.02.01-09.18.41:029][331]LogSavePackage: Save=288.23ms
+[2018.02.01-09.18.41:029][331]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Phamos_BP2E56C9214598CF1EA613D7BAD3EADBE6.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset'
+[2018.02.01-09.18.41:034][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Characters/Phamos/Phamos_BP.uasset
+[2018.02.01-09.18.42:186][374]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-09.18.42:223][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.18.42:223][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-09.18.42:224][374]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 11:18:42 AM)
+[2018.02.01-09.18.42:224][374]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-09.18.42:260][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035788s)
+[2018.02.01-09.18.42:261][374]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-09.18.42:261][374]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2018.02.01-09.18.42:262][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037550s)
+[2018.02.01-09.18.42:299][374]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-09.18.42:318][374]LogInit: FAudioDevice initialized.
+[2018.02.01-09.18.42:355][374]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-09.18.42:360][374]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.01-10.18.42
+[2018.02.01-09.18.42:361][374]LogWorld: Bringing up level for play took: 0.005265
+[2018.02.01-09.18.42:364][374]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.553
+[2018.02.01-09.18.42:364][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.19.26:280][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.19.26:324][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.21.23:380][796]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.21.24:108][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.21.24:183][805]LogSavePackage: Save=53.27ms
+[2018.02.01-09.21.24:183][805]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballFDD63F7A49B08CE7F59B6B9B46742A2C.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.21.24:195][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.21.31:140][ 28]LogSlate: Took 0.001430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.01-09.22.03:969][ 93]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.22.04:758][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.22.04:833][106]LogSavePackage: Save=57.66ms
+[2018.02.01-09.22.04:834][106]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballA9D828804B10C57A5C3A329DF5A28ED0.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.22.04:844][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.22.15:360][453]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.22.16:103][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.22.16:181][464]LogSavePackage: Save=54.69ms
+[2018.02.01-09.22.16:181][464]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballAFFE34974DBCD42A7EF5F5AE9FD8B3E9.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.22.16:192][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.23.18:135][456]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.23.50:862][484]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.23.51:644][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.23.51:723][497]LogSavePackage: Save=61.27ms
+[2018.02.01-09.23.51:723][497]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball51C694EF4BF17E74FEACA595DDAB343E.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.23.51:733][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.26.53:213][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.26.53:308][505]LogSavePackage: Save=68.99ms
+[2018.02.01-09.26.53:308][505]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball6AD738074173DE2F85C80299D27D1E86.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.26.53:313][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.26.55:390][590]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-09.26.55:437][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.26.55:437][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-09.26.55:437][590]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 11:26:55 AM)
+[2018.02.01-09.26.55:437][590]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-09.26.55:469][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031740s)
+[2018.02.01-09.26.55:471][590]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-09.26.55:472][590]LogPlayLevel: PIE: World Init took: (0.002299s)
+[2018.02.01-09.26.55:472][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034578s)
+[2018.02.01-09.26.55:517][590]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-09.26.55:539][590]LogInit: FAudioDevice initialized.
+[2018.02.01-09.26.55:576][590]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-09.26.55:581][590]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.01-10.26.55
+[2018.02.01-09.26.55:582][590]LogWorld: Bringing up level for play took: 0.005661
+[2018.02.01-09.26.55:585][590]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.226
+[2018.02.01-09.26.55:585][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.27.17:655][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.27.17:694][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.27.23:810][131]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.27.24:639][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.27.24:715][145]LogSavePackage: Save=56.35ms
+[2018.02.01-09.27.24:715][145]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball974178DF49FE1F537C1B00BED5D53EE4.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.27.24:725][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.27.54:805][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.27.54:876][136]LogSavePackage: Save=53.52ms
+[2018.02.01-09.27.54:876][136]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballB0C930A748DD137BF66C00B81FF37114.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.27.54:881][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.28.04:270][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.28.04:344][444]LogSavePackage: Save=55.54ms
+[2018.02.01-09.28.04:344][444]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballF951D83D4B42EF5B714B288B245FED5E.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.28.04:348][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.28.05:921][506]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-09.28.05:961][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.28.05:962][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-09.28.05:962][506]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 11:28:05 AM)
+[2018.02.01-09.28.05:962][506]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-09.28.05:992][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029359s)
+[2018.02.01-09.28.05:994][506]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-09.28.05:994][506]LogPlayLevel: PIE: World Init took: (0.002061s)
+[2018.02.01-09.28.05:994][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031895s)
+[2018.02.01-09.28.06:033][506]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-09.28.06:052][506]LogInit: FAudioDevice initialized.
+[2018.02.01-09.28.06:089][506]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-09.28.06:094][506]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.01-10.28.06
+[2018.02.01-09.28.06:096][506]LogWorld: Bringing up level for play took: 0.005974
+[2018.02.01-09.28.06:099][506]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.288
+[2018.02.01-09.28.06:100][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.28.14:968][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.28.15:013][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.30.02:341][915]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.035
+[2018.02.01-09.30.02:347][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Spells/Fireball] ([1] browsable assets)...
+[2018.02.01-09.30.02:347][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spells/Fireball]
+[2018.02.01-09.30.02:441][915]LogSavePackage: Save=70.97ms
+[2018.02.01-09.30.02:441][915]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball_Auto34EEC12B8412BCD9792E63498DD274E92.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Autosaves/Game/Blueprints/Spells/Fireball_Auto3.uasset'
+[2018.02.01-09.30.02:446][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Autosaves/Game/Blueprints/Spells/Fireball_Auto3.uasset
+[2018.02.01-09.30.02:447][915]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.02.01-09.30.21:744][498]BlueprintLog: New page: Compile Fireball
+[2018.02.01-09.30.22:553][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.30.22:631][510]LogSavePackage: Save=58.10ms
+[2018.02.01-09.30.22:631][510]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Fireball7D88ACA44D532C55718A82A46F2054EB.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.30.22:640][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.31.00:310][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spells/Fireball" FILE="../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset" SILENT=true
+[2018.02.01-09.31.00:392][684]LogSavePackage: Save=58.77ms
+[2018.02.01-09.31.00:392][684]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/FireballBE41FF5B4ED607E492AFA7B899E4530D.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset'
+[2018.02.01-09.31.00:397][684]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Blueprints/Spells/Fireball.uasset
+[2018.02.01-09.41.09:489][837]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-09.41.09:534][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.41.09:534][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-09.41.09:534][837]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 11:41:09 AM)
+[2018.02.01-09.41.09:535][837]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-09.41.09:569][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033516s)
+[2018.02.01-09.41.09:571][837]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-09.41.09:572][837]LogPlayLevel: PIE: World Init took: (0.003051s)
+[2018.02.01-09.41.09:572][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037176s)
+[2018.02.01-09.41.09:614][837]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-09.41.09:636][837]LogInit: FAudioDevice initialized.
+[2018.02.01-09.41.09:671][837]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-09.41.09:676][837]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.01-10.41.09
+[2018.02.01-09.41.09:678][837]LogWorld: Bringing up level for play took: 0.005790
+[2018.02.01-09.41.09:682][837]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.129
+[2018.02.01-09.41.09:682][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.41.23:386][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.41.23:423][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.47.10:020][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-09.47.10:058][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.47.10:058][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-09.47.10:058][ 34]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 1, 2018, 11:47:10 AM)
+[2018.02.01-09.47.10:058][ 34]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.01-09.47.10:089][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031038s)
+[2018.02.01-09.47.10:091][ 34]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.01-09.47.10:091][ 34]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2018.02.01-09.47.10:091][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033383s)
+[2018.02.01-09.47.10:126][ 34]LogInit: XAudio2 using 'luidspreker/Hoofdtelefoon (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-09.47.10:145][ 34]LogInit: FAudioDevice initialized.
+[2018.02.01-09.47.10:179][ 34]LogLoad: Game class is 'Phamos_GM_C'
+[2018.02.01-09.47.10:183][ 34]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.01-10.47.10
+[2018.02.01-09.47.10:184][ 34]LogWorld: Bringing up level for play took: 0.004900
+[2018.02.01-09.47.10:188][ 34]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.377
+[2018.02.01-09.47.10:188][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.47.16:553][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.47.16:590][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.01-09.47.18:563][475]LogSavePackage: Save=269.04ms
+[2018.02.01-09.47.18:563][475]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/ThirdPersonExampleMap9A8792AE477AA9F3839F31A69E7E2351.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.01-09.47.18:573][475]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.01-09.47.19:123][475]LogSavePackage: Save=463.26ms
+[2018.02.01-09.47.19:123][475]LogSavePackage: Moving '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/ThirdPersonExampleMap_BuiltData8EF7EB0743CC7F9B9AFBB795729D4D36.tmp' to '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.01-09.47.19:128][475]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.01-09.47.29:444][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-09.47.29:519][871]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.01-09.47.29:519][871]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.01-09.47.29:854][872]Cmd: QUIT_EDITOR
+[2018.02.01-09.47.30:481][872]LogExit: Preparing to exit.
+[2018.02.01-09.47.31:895][872]LogDirectoryWatcher: A directory notification for 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/' was aborted.
+[2018.02.01-09.47.32:226][872]LogExit: Editor shut down
+[2018.02.01-09.47.32:278][872]LogExit: Transaction tracking system shut down
+[2018.02.01-09.47.32:610][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.01-09.47.32:610][872]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/' was aborted.
+[2018.02.01-09.47.32:610][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.01-09.47.32:610][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/DonAINavigation/Content/' was aborted.
+[2018.02.01-09.47.32:610][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.01-09.47.32:610][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.01-09.47.32:611][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.01-09.47.32:611][872]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.01-09.47.32:921][872]LogExit: Object subsystem successfully closed.
+[2018.02.01-09.47.32:980][872]LogD3D11RHI: Shutdown
+[2018.02.01-09.47.32:981][872]LogD3D11RHI: CleanupD3DDevice
+[2018.02.01-09.47.33:017][872]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.01-09.47.33:096][872]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.02.01-09.47.33:096][872]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.02.01-09.47.33:096][872]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.02.01-09.47.33:096][872]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.01-09.47.33:096][872]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.01-09.47.33:096][872]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.01-09.47.33:103][872]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.01-09.47.33:103][872]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.01-09.47.33:103][872]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.01-09.47.33:105][872]LogDirectoryWatcher: A directory notification for 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Collections/' was aborted.
+[2018.02.01-09.47.33:105][872]LogDirectoryWatcher: A directory notification for 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Content/Developers/Luc/Collections/' was aborted.
+[2018.02.01-09.47.33:105][872]LogDirectoryWatcher: A directory notification for 'C:/Users/Luc/Documents/Unreal Projects/TribalTurtlesProject/Saved/Collections/' was aborted.
+[2018.02.01-09.47.33:106][872]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.02.01-09.47.33:106][872]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.02.01-09.47.33:107][872]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.02.01-09.47.33:108][872]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.02.01-09.47.33:109][872]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.02.01-09.47.33:109][872]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.02.01-09.47.33:111][872]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.02.01-09.47.33:111][872]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.02.01-09.47.33:111][872]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.02.01-09.47.33:111][872]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.02.01-09.47.33:111][872]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.02.01-09.47.33:111][872]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.02.01-09.47.33:112][872]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.02.01-09.47.33:112][872]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.02.01-09.47.33:112][872]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.02.01-09.47.33:112][872]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.02.01-09.47.33:112][872]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.02.01-09.47.33:112][872]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.02.01-09.47.33:113][872]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.02.01-09.47.33:114][872]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.02.01-09.47.33:114][872]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.02.01-09.47.33:114][872]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.02.01-09.47.33:114][872]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.02.01-09.47.33:114][872]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.02.01-09.47.33:115][872]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.02.01-09.47.33:117][872]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.02.01-09.47.33:119][872]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.02.01-09.47.33:120][872]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.02.01-09.47.33:122][872]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.02.01-09.47.33:122][872]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.02.01-09.47.33:123][872]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.02.01-09.47.33:123][872]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.02.01-09.47.33:363][872]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.02.01-09.47.33:363][872]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.02.01-09.47.33:364][872]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.02.01-09.47.33:364][872]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.02.01-09.47.33:371][872]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.02.01-09.47.33:371][872]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.02.01-09.47.33:371][872]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.02.01-09.47.33:372][872]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.02.01-09.47.33:372][872]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.02.01-09.47.33:373][872]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.02.01-09.47.33:374][872]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.02.01-09.47.33:374][872]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.02.01-09.47.33:375][872]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.02.01-09.47.33:375][872]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.02.01-09.47.33:376][872]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.02.01-09.47.33:376][872]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.02.01-09.47.33:377][872]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.02.01-09.47.33:432][872]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.02.01-09.47.33:433][872]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.02.01-09.47.33:434][872]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.02.01-09.47.33:436][872]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.02.01-09.47.33:436][872]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.02.01-09.47.33:437][872]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.02.01-09.47.33:438][872]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.02.01-09.47.33:439][872]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.02.01-09.47.33:439][872]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.02.01-09.47.33:439][872]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.02.01-09.47.33:453][872]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.02.01-09.47.33:457][872]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.02.01-09.47.33:457][872]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.02.01-09.47.33:457][872]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.02.01-09.47.33:458][872]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.02.01-09.47.33:459][872]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.02.01-09.47.33:459][872]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.02.01-09.47.33:460][872]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.02.01-09.47.33:461][872]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2018.02.01-09.47.33:461][872]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.01-09.47.33:516][872]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.01-09.47.33:517][872]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.01-09.47.33:518][872]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.01-09.47.33:520][872]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.01-09.47.33:521][872]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.01-09.47.33:524][872]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.01-09.47.33:525][872]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.01-09.47.33:525][872]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.01-09.47.33:525][872]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.01-09.47.33:525][872]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.01-09.47.33:526][872]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.01-09.47.33:527][872]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.01-09.47.33:528][872]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.01-09.47.33:529][872]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.01-09.47.33:529][872]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.01-09.47.33:529][872]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.01-09.47.33:529][872]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.01-09.47.33:530][872]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.01-09.47.33:530][872]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.01-09.47.33:533][872]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.01-09.47.33:533][872]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.01-09.47.33:533][872]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.02.01-09.47.33:534][872]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.02.01-09.47.33:535][872]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.02.01-09.47.33:641][872]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.02.01-09.47.33:744][872]LogModuleManager: Shutting down and abandoning module DonAINavigation (252)
+[2018.02.01-09.47.33:744][872]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.01-09.47.33:751][872]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.01-09.47.33:751][872]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.01-09.47.33:751][872]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.01-09.47.33:752][872]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.01-09.47.33:753][872]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.01-09.47.33:755][872]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.01-09.47.33:755][872]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.01-09.47.33:755][872]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.01-09.47.33:755][872]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.01-09.47.33:757][872]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.01-09.47.33:757][872]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.01-09.47.33:757][872]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.01-09.47.33:757][872]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.01-09.47.33:758][872]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.01-09.47.33:758][872]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.01-09.47.33:764][872]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.01-09.47.33:764][872]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.01-09.47.33:764][872]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.01-09.47.33:766][872]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.01-09.47.33:766][872]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.01-09.47.33:766][872]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.01-09.47.33:768][872]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.01-09.47.33:769][872]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.01-09.47.33:770][872]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.01-09.47.33:770][872]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.01-09.47.33:771][872]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.01-09.47.33:773][872]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.01-09.47.33:775][872]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.01-09.47.33:775][872]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.01-09.47.33:778][872]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.01-09.47.33:778][872]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.01-09.47.33:782][872]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.01-09.47.33:792][872]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.01-09.47.33:792][872]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.01-09.47.33:792][872]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.01-09.47.33:793][872]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.01-09.47.33:793][872]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.01-09.47.33:794][872]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.01-09.47.33:794][872]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.01-09.47.33:794][872]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.01-09.47.33:794][872]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.01-09.47.33:821][872]LogDerivedDataCache: Shutdown
+[2018.02.01-09.47.33:821][872]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.01-09.47.33:821][872]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.01-09.47.33:822][872]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.01-09.47.33:822][872]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.01-09.47.33:822][872]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.01-09.47.33:822][872]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.01-09.47.33:823][872]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.01-09.47.33:824][872]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.01-09.47.33:825][872]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.01-09.47.33:826][872]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.01-09.47.33:827][872]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.01-09.47.33:827][872]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.01-09.47.33:827][872]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDAB11DAF-43CA-44C4-5D22-61AD7AC4E380%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=1f0553ad403ad417c2d26cb34ad408d3%7Cdaa72e32e1694839bba7e95c0192eea5%7C19428abf-63b1-4a2b-b3aa-793f0c5622ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.01-09.47.33:857][872]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.01-09.47.33:860][872]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.01-09.47.33:861][872]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.01-09.47.33:861][872]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.01-09.47.33:862][872]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.01-09.47.33:862][872]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.01-09.47.33:862][872]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.01-09.47.33:862][872]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.01-09.47.33:870][872]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.01-09.47.33:871][872]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.01-09.47.33:871][872]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.01-09.47.33:871][872]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.01-09.47.33:871][872]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.01-09.47.33:871][872]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.01-09.47.33:871][872]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.01-09.47.33:872][872]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.01-09.47.33:872][872]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.01-09.47.33:872][872]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.01-09.47.33:872][872]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.01-09.47.33:875][872]LogExit: Exiting.
+[2018.02.01-09.47.33:908][872]Log file closed, 02/01/18 10:47:33
